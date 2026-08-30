@@ -1,1 +1,7 @@
 # fpga-custom-board
+
+FPGA Design Link -
+https://docs.amd.com/v/u/en-US/ug483_7Series_PCB
+
+- https://docs.amd.com/v/u/en-US/ds181_Artix_7_Data_Sheet
+- https://www.amd.com/en/developer/resources/adaptive-socs-and-fpgas/package-pinout-files/artix-7-package-device-pinout-files.html
