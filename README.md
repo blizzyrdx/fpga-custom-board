@@ -1,6 +1,4 @@
 # fpga-custom-board
-- https://docs.amd.com/v/u/en-US/ds181_Artix_7_Data_Sheet
-
 Relevant Documentations
 - https://www.reddit.com/r/PrintedCircuitBoard/comments/1m0hude/schematic_review_request_ecp5ufpga_board_with_hs/#lightbox 
 
